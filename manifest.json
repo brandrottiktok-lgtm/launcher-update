@@ -1,10 +1,10 @@
 {
   "appName": "bulking-br-bh",
   "latestVersion": "1.0.0",
-  "notes": "Correcoes e melhorias",
+  "notes": "Correções e melhorias",
   "win": {
-    "installerUrl": "COLE_AQUI_LINK_DIRETO_DO_INSTALLER",
-    "portableUrl": "COLE_AQUI_LINK_DIRETO_DO_PORTABLE_ZIP",
-    "sha256": "+"
+    "installerUrl": "https://github.com/brandrottiktok-lgtm/bulkingbr-builds/releases/download/test/bulking-br-bh-1.0.0-x64.exe",
+    "portableUrl": "https://github.com/brandrottiktok-lgtm/bulkingbr-builds/releases/download/test/portable.zip",
+    "sha256": "f0e58b29fdddee2c62a54eb827a454af4d1b9eecb4eeed4d5b664cfdd34b1c65"
   }
 }
