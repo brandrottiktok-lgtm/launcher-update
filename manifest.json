@@ -1,12 +1,10 @@
 {
-  "version": "1.0.1",
+  "appName": "bulking-br-bh",
+  "latestVersion": "1.0.1",
   "notes": "Correções e melhorias.",
-  "pub_date": "2025-08-10T12:00:00Z",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "",
-      "url": "https://github.com/brandrottiktok-lgtm/bulkingbr-builds/releases/download/test/BulkingBR-Launcher-1.0.1-x64.exe",
-      "sha256": "f53663a5134fde6e805bd87a09e70ed429af2353b56800e8796650813d2cbe04"
-    }
+  "win": {
+    "installerUrl": "https://github.com/brandrottiktok-lgtm/bulkingbr-builds/releases/download/test/BulkingBR-Launcher-1.0.1-x64.exe",
+    "portableUrl": "",
+    "sha256": "f53663a5134fde6e805bd87a09e70ed429af2353b56800e8796650813d2cbe04"
   }
 }
